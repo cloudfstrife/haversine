@@ -2,9 +2,7 @@
 
 haversine is a Go library which implements the haversine formula.
 
-$$
-haversin(\displaystyle \frac{d}{R})=haversin(\phi2-\phi1)+cos(\phi1)cos(\phi2)haversin(\lambda2-\lambda1)
-$$
+![haversine](https://latex.codecogs.com/gif.download?haversin%28%5Cdisplaystyle%20%5Cfrac%7Bd%7D%7BR%7D%29%3Dhaversin%28%5Cphi2-%5Cphi1%29+cos%28%5Cphi1%29cos%28%5Cphi2%29haversin%28%5Clambda2-%5Clambda1%29)
 
 ## USAGE
 
