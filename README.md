@@ -2,7 +2,13 @@
 
 haversine is a Go library which implements the haversine formula.
 
-![haversine](https://latex.codecogs.com/gif.download?haversin%28%5Cdisplaystyle%20%5Cfrac%7Bd%7D%7BR%7D%29%3Dhaversin%28%5Cphi2-%5Cphi1%29+cos%28%5Cphi1%29cos%28%5Cphi2%29haversin%28%5Clambda2-%5Clambda1%29)
+![haversine](haversine.gif)
+
+## Reference
+
+[Haversine formula - Wikipedia](https://en.wikipedia.org/wiki/Haversine_formula)
+
+[半正矢公式 - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-hans/Haversine_formula)
 
 ## USAGE
 
