@@ -4,6 +4,12 @@ haversine is a Go library which implements the haversine formula.
 
 ![haversine](haversine.gif)
 
+## Reference
+
+[Haversine formula - Wikipedia](https://en.wikipedia.org/wiki/Haversine_formula)
+
+[半正矢公式 - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-hans/Haversine_formula)
+
 ## USAGE
 
 ```
