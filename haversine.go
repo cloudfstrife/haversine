@@ -18,7 +18,7 @@ type Point struct {
 // Distance return the Distance between two point in kilometre
 // Parameters:
 // point1 : first location point
-// point2 : first location point
+// point2 : second location point
 func Distance(point1, point2 Point) float64 {
 
 	lat1 := AngleToRadian(point1.Latitude)
